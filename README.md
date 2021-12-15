@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ahsan75412) 
 
- -Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designerwho is passionate about making error free website with 100% client satisfaction.i have a passion for learning and sharing my knowledge.I try to learn something new every day. i love to solve real world problem.i enjoy working with include "React Js , Java Script" as well as Django.
+ -Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer who is passionate about making error free website with 100% client satisfaction.i have a passion for learning and sharing my knowledge.I try to learn something new every day. i love to solve real world problem.i enjoy working with include "React Js , Java Script" as well as Django.
 
 Skills: Java / C++ / C /PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
