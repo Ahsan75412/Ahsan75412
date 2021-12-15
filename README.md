@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ahsan75412) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. I try to learn something new every day. I like programming a lot. Now I work on MERN stack development.
+ -Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designerwho is passionate about making error free website with 100% client satisfaction.i have a passion for learning and sharing my knowledge.I try to learn something new every day. i love to solve real world problem.i enjoy working with include "React Js , Java Script" as well as Django.
 
 Skills: Java / C++ / C /PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
@@ -51,3 +51,5 @@ Skills: Java / C++ / C /PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsan75412&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahsan75412)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsan75412)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahsan75412)](https://github.com/ryo-ma/github-profile-trophy)
